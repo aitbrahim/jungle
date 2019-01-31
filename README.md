@@ -1,2 +1,2 @@
 # jungle
-jungle two-player strategy game
+well known two-player strategy game
